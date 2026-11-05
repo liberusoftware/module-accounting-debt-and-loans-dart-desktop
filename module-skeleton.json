@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-debt-and-loans-dart-desktop",
+  "capabilityKey": "liberusoftware/module-accounting-debt-and-loans",
+  "presentation": "dart-desktop",
+  "package": "module_accounting_debt_and_loans_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/accounting/nextjs/debt-and-loans.md",
+  "presentationPlan": "projects/accounting/features/debt-and-loans.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
